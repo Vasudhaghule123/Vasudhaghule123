@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Vasudha Ghule</h1>
 <h3 align="center">A developer, open source enthusiast, technical content writer and learner for life. I love programming and as a developer, I focus on learning the technology to make things that make a difference :)</h3>
-<img align="right" alt="Coding" width="400" src="https://avatars.githubusercontent.com/u/80921436?v=4">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
